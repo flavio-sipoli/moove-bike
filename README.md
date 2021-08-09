@@ -63,7 +63,7 @@ Sequelize ORM
 Clonar o projeto
 
 ```
-git clone https://github.com/jonatas-bento/MOOVEBIKE.git
+git clone https://github.com/flavio-sipoli/MOOVE-BIKE.git
 ```
 
 Criar arquivo .env na raiz do projeto e configurar as variáveis de ambiente
